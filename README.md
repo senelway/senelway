@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Dmitrii Strelkov</h3>
+<p align="center">
+  <a href="https://twitter.com/stkdmitry">Twitter</a> •
+  <a href="https://open.spotify.com/user/7x1liv2qnp9pcjfx6q8pwwzei?si=27529028b4a2475c">Spotify</a>  •
+  <a href="mailto:stkdmitry@gmail.cm">GMail</a>
+</p>
 
-<!--
-**stk-dmitry/stk-dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ I'm a software engineer
+- 🔭 I’m currently working on [Bidease](https://bidease.com/)
+- 🔨 I use daily: `.tsx`, `.vue`, `.go`, `.css`
+- 💬 Ask me about **any** frontend technologies
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 🌱 I’m currently learning [Go](https://go.dev/)
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [Twitter](https://twitter.com/stkdmitry), [Telegram](https://t.me/stkdm)
+- 🇮🇩 Current location: Bali, Indonesia
