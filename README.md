@@ -15,4 +15,4 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Twitter](https://twitter.com/stkdmitry), [Telegram](https://t.me/stkdm)
-- 🇮🇩 Current location: Bali, Indonesia
+- 🇦🇪 Current location: Dubai, United Arab Emirates
