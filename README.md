@@ -15,4 +15,5 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Twitter](https://twitter.com/stkdmitry), [Telegram](https://t.me/stkdm)
+- 📻 Spotify: [Strelkov](https://open.spotify.com/user/7x1liv2qnp9pcjfx6q8pwwzei?si=409ed1e51ab840b1)
 - 🇦🇪 Current location: Dubai, United Arab Emirates
