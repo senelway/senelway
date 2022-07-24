@@ -3,7 +3,8 @@
   <a href="https://twitter.com/stkdmitry">Twitter</a> •
   <a href="https://t.me/stkdm">Telegram</a> •
   <a href="https://open.spotify.com/user/7x1liv2qnp9pcjfx6q8pwwzei?si=27529028b4a2475c">Spotify</a>  •
-  <a href="mailto:stkdmitry@gmail.cm">Mail</a>
+  <a href="mailto:stkdmitry@gmail.cm">Mail</a>  •
+  <a href="https://www.linkedin.com/in/d-strelkov/">Linkedin</a>
 </p>
 
 ---
