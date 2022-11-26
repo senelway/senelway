@@ -16,4 +16,4 @@
 - 💬 Ask me about **any** frontend technologies
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 😄 Pronouns: he/him
-- 🇦🇪 Current location: Dubai, United Arab Emirates
+- 🇦🇪 Location: Dubai, United Arab Emirates
