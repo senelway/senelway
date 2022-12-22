@@ -1,6 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Dmitrii Strelkov</h3>
 <p align="center">
   <a href="https://twitter.com/senelway">Twitter</a> •
+  <a href="https://www.reddit.com/user/senelway">Reddit</a> •
   <a href="https://senelway.t.me">Telegram</a> •
   <a href="https://open.spotify.com/user/7x1liv2qnp9pcjfx6q8pwwzei?si=8aa28ca294784f44">Spotify</a>  •
   <a href="mailto:senelway@gmail.cm">Mail</a>  •
