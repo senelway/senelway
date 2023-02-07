@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Dmitrii Strelkov</h3>
+<h3 align="center">👋 Hi there!</h3>
 <p align="center">
   <a href="https://twitter.com/senelway">Twitter</a> •
   <a href="https://www.reddit.com/user/senelway">Reddit</a> •
