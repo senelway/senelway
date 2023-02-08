@@ -13,7 +13,7 @@
 - ✨ I'm a software engineer
 - 🔭 I’m currently working on [Bidease](https://bidease.com/)
 - 🔨 I use daily: `.tsx`, `.vue` | `.go`, `.cs`
-- 🌱 Pet-projects, study: `.svelte` | `.rs`, `.lua`
+- 🌱 Pet-projects, study: `.rs`, `.lua`
 - 💬 Ask me about **any** frontend technologies
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 😄 Pronouns: he/him
