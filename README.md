@@ -10,7 +10,7 @@
 
 ---
 
-- ✨ I'm a software engineer
+- ✨ I'm a Technical Lead / Software Engineer
 - 🔭 I’m currently working on [Bidease](https://bidease.com/)
 - 🔨 I use daily: `.tsx`, `.vue` | `.go`, `.cs`
 - 🌱 Pet-projects, study: `.rs`, `.lua`
