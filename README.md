@@ -17,4 +17,4 @@
 - 💬 Ask me about **any** frontend technologies
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 😄 Pronouns: he/him
-- 🇦🇪 Location: Dubai, United Arab Emirates
+- 🌍 Location: 🇵🇹 Lisbon, Portugal | 🇦🇪 Dubai, United Arab Emirates
