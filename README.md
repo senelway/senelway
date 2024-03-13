@@ -12,8 +12,7 @@
 
 - ✨ I'm a Technical Lead / Software Engineer
 - 🔭 I’m currently working on [Bidease](https://bidease.com/)
-- 🔨 I use daily: `.tsx`, `.vue` | `.go`, `.cs`
-- 🌱 Pet-projects: `.rs`, `.lua`
+- 🔨 I use daily: `.tsx`, `.vue` | `.go`, `.rs`, `.lua`
 - 💬 Ask me about **any** frontend technologies
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 😄 Pronouns: he/him
