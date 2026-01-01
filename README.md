@@ -12,6 +12,6 @@
 
 - ✨ I'm a Technical Lead / Software Engineer
 - 🔭 I’m currently working on [Bidease](https://bidease.com/)
-- 🔨 I use daily: `.tsx`, `.vue` | `.go`, `.cs`, `.lua`
+- 🔨 I use daily: `.ts`, `.go`, `.cs`, `.lua`, `.rust`
 - 🌍 Location: 🇦🇪 Dubai, United Arab Emirates
 - <img src="https://github.com/senelway/senelway/assets/9702154/65220130-ef81-4189-9b5d-0ea6444eb76e" width="12"/> &nbsp;(btw)
